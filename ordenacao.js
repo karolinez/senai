@@ -20,7 +20,7 @@
         
     }
     }
-console.log(vet)
+console.log(vet);
 
 
 
